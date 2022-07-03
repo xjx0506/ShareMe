@@ -1,3 +1,3 @@
 # ShareMe
 
-This is front end of the shareme app
+Contains front end of the shareme app
